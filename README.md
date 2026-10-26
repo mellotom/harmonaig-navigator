@@ -1,6 +1,6 @@
 # harmonaig-navigator
 
-travelers guide for chording the cosmos: a one-page reference for the **instruō harmonàig**.
+travelers guide for discovering harmony in the cosmos: a one-page reference for the **instruō harmonàig**.
 
 sources: the instruō harmonàig user manual; panel drawing after the manual's panel diagram.
 
